@@ -1,0 +1,25 @@
+body {
+    color: #333;
+}
+
+.highlight {
+    color: #008000;
+}
+
+.emphasis {
+    color: #FF0300;
+}
+
+header,
+footer {
+    background-color: #333;
+}
+
+a {
+    color: blue;
+}
+
+button {
+    background-color: #333;
+}
+
